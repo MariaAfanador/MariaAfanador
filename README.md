@@ -7,7 +7,7 @@ My keen **attention to detail** and a genuine interest in how software is built 
 I'm actively enhancing my skills in:
 
 * **Languages:** `Python` `SQL`
-* **QA & Automation Tools:** `Selenium` `Postman` `Jira` `Trello`
+* **QA & Automation Tools:** `Playwright` `Postman` `Jira` `Trello`
 * **Methodologies:** `Agile (Scrum)` `Software Testing Lifecycle (STLC)`
 * **Version Control:** `Git` `GitHub`
 * **Other Skills:** `Data Analysis` `Bilingual Customer Support` `Team Leadership`
