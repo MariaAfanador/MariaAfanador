@@ -1,27 +1,26 @@
 ### Hi there 👋
 
-I'm **Maria Angelica Afanador**, an International Business Administrator with a strong foundation in business processes and data analysis, now passionately transitioning into **QA Automation**.
+I'm **Maria Angelica Afanador**, a Software Analysis and Development student focused on **Frontend Development**.
 
-My keen **attention to detail** and a genuine interest in how software is built and validated drive my commitment to ensuring product quality. I thrive on identifying challenges and contributing to robust, efficient solutions.
-
-I'm actively enhancing my skills in:
-
-* **Languages:** `Python` `SQL`
-* **QA & Automation Tools:** `Playwright` `Postman` `Jira` `Trello`
-* **Methodologies:** `Agile (Scrum)` `Software Testing Lifecycle (STLC)`
-* **Version Control:** `Git` `GitHub`
-* **Other Skills:** `Data Analysis` `Bilingual Customer Support` `Team Leadership`
+💻 I enjoy building responsive and user-friendly web applications, combining logic and design to deliver practical solutions.  
 
 ---
 
-### What I'm working on:
+### 🚀 Tech Stack
 
-* Currently building foundational projects in QA Automation and exploring test methodologies.
-* Developing a personal projects to apply my Python and API integration skills.
-* Pursuing a Technology degree in Software Analysis and Development.
+* **Frontend:** `HTML` `CSS` `JavaScript` `React` `Tailwind`  
+* **Version Control:** `Git` `GitHub`  
+* **Other Skills:** `APIs` `Responsive Design`  
 
 ---
 
+### 🌱 What I'm working on
+
+* Creating projects with React and API integration.   
+* Building  portfolio projects.  
+* Preparing for a **Frontend Developer internship** to gain real-world experience.  
+
+---
 ### Let's connect!
 
 📫 How to reach me:
