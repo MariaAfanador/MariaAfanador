@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Maria Angelica Afanador**, a Software Analysis and Development student focused on **FullStack Development**.
+I'm **Maria Angelica Afanador**, a Software Analysis and Development student focused on **Frontend Development**.
 
 💻 I enjoy building responsive and user-friendly web applications, combining logic and design to deliver practical solutions.  
 
@@ -9,9 +9,8 @@ I'm **Maria Angelica Afanador**, a Software Analysis and Development student foc
 ### 🚀 Tech Stack
 
 * **Frontend:** `HTML` `CSS` `JavaScript` `React` `Tailwind`
-* **Backend:** `Python` 
 * **Version Control:** `Git` `GitHub`  
-* **Other Skills:** `APIs` `Responsive Design`  
+* **Other Skills:** `APIs` `Responsive Design` `Python`
 
 
 ---
