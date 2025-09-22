@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Maria Angelica Afanador, an International Business Administrator transitioning into the tech field and currently a Software Analysis and Development technologist student with experience in QA testing and data analysis.
+I'm Maria Angelica Afanador, an International Business Administrator transitioning into the tech field. Currently a Software Analysis and Development technologist student.
 
 🔍 I enjoy validating web applications and APIs, combining manual and automated testing to ensure software quality.
 
