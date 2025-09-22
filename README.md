@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
-I'm **Maria Angelica Afanador**, a Software Analysis and Development student focused on **Frontend Development**.
+I'm Maria Angelica Afanador, an International Business Administrator transitioning into the tech field and currently a Software Analysis and Development technologist student with experience in QA testing and data analysis.
 
-💻 I enjoy building responsive and user-friendly web applications, combining logic and design to deliver practical solutions.  
+🔍 I enjoy validating web applications and APIs, combining manual and automated testing to ensure software quality.
 
----
+🚀 Tech Stack
 
-### 🚀 Tech Stack
+Testing: Playwright Postman Manual Testing
 
-* **Frontend:** `HTML` `CSS` `JavaScript` `React` `Tailwind`
-* **Version Control:** `Git` `GitHub`  
-* **Other Skills:** `APIs` `Responsive Design` `Python`
+Programming & Databases: Python JavaScript SQL
+
+Version Control: Git GitHub
+
+Other Skills: Data Analysis APIs
 
 
 ---
